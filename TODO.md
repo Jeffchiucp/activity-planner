@@ -1,5 +1,4 @@
 # TODO
 
-1. Fix what is shown when you are logged in (edit and add buttons)
-1. Format dates on index
-1. 
+1. Get a branch name and use MixPanel to analyze the users
+2. Share the product to product lanuch
