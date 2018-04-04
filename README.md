@@ -1,16 +1,14 @@
-#  Activities Planner and Finder
-https://awesome-activities-planner.herokuapp.com
+#  Awesome Activities Planner
+https://tinyurl.com/ybesamu4
 
 ## Introduction
-Awesome Activities Planner and Finder is a program that provide exciting stops that match your search through MeetUp and Yelp. View activities created by you and other users on a map of your surroundings.  You are provided information about the business you searched as well as a Google Map with markers of your current location and the Yelp rating of the activity. It allows users to create an Itinerary for the activities they want to do.
-
-This is personal project from Make School. You can reach us at through  ansel.bridgewater@students.makeschool.com and jeff.chiu@students.makeschool.com
+Awesome Activities Planner and Finder is a program that provide exciting stops that match your search through MeetUp and Yelp. View activities created by you and other users on a map of your surroundings.  Users are provided information about the business you searched as well as a Google Map with markers of your current location and the Yelp rating of the activity. It allows users to create an Itinerary for the activities they want to do.
 
 
 ## Table of Contents
 1. Technologies Used
-2. How to locally run Activity Finder 
-3. How to use Activity Finder
+2. How to locally run Activity Planner 
+3. How to use Awesome Activity
 
 ### Technologies Used 
 - [Sequelize](http://docs.sequelizejs.com/)
